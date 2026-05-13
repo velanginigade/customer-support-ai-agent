@@ -70,5 +70,24 @@ Planned Enhancements:
 Project Status:
 Completed foundational implementation of AI-powered support workflows and retrieval architecture. Currently expanding conversational handling and automation capabilities.
 
+## Sample Workflow
+
+1. Receive customer query
+2. Process support request
+3. Retrieve relevant FAQ context
+4. Generate AI-powered response
+5. Classify support category
+6. Suggest workflow actions
+7. Return structured support output
+
+## Learning Goals
+
+This project was built to strengthen practical understanding of:
+- AI-powered support automation
+- Retrieval-Augmented Generation (RAG)
+- Conversational AI workflows
+- Semantic search systems
+- Backend API orchestration
+
 Author
 Velangini Gade
